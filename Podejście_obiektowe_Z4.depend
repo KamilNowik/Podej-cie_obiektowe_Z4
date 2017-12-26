@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514308792 source:c:\users\krecik\desktop\codeblock\podejœcie_obiektowe_z4\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1514308850 c:\users\krecik\desktop\codeblock\podejœcie_obiektowe_z4\przyjaciele.h
+	<iostream>
+
+1514308272 source:c:\users\krecik\desktop\codeblock\podejœcie_obiektowe_z4\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+
